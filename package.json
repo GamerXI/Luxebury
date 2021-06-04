@@ -48,5 +48,5 @@
     "gulp-sourcemaps": "^2.6.5",
     "gulp-open": "^3.0.1"
   },
-  "homepage": "https://demos.creative-tim.com/material-kit/index.html"
+  "homepage": "index.html"
 }
